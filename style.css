@@ -1,0 +1,47 @@
+body{
+	background: #e48257;
+}
+/*div{
+	display: inline-block;
+	height: 30px;
+	width: 24%; 
+}*/
+.container{
+	display: flex;
+	justify-content: space-around;
+}
+
+.yellow{
+ 	background-color: #f0c929;
+ 	font-family: Advent Pro;
+ 	font-size: 20px;
+}
+
+.lightblue{
+	background-color: #9fd8df;
+	font-family: Amatic SC;
+	font-size: 20px;
+
+}
+
+.purple{
+	background-color: #b8b5ff;
+	font-family: Annie Use Your Telescope;
+	font-size: 20px;
+}
+
+.coral{
+	background-color: #f39189;
+	font-family: Architects Daughter;
+	font-size: 20px;
+}
+
+.box{
+	height: 100px;
+	width: 100px;
+	text-align: center;
+	font-size: 20px;
+}
+img{
+	width: 50%;
+}
